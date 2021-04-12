@@ -33,6 +33,10 @@ qui seraient simplement fermés en période de vacances (été, noël, pâques)
 
 https://fts.capgemini.com/pubpwd/33504211085251/SujetMachineLearning-TGTG.zip 
  
-Avec les identifiants :
-username: squrazlpc
-Password: Q8HG7VN7DK
+Avec les identifiants : (à demander)
+
+
+
+username: ********
+Password: ********
+
