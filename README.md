@@ -1,4 +1,4 @@
-# Hackathon-StatUp-x-Capgemini
+# Hackathon StatUp x Capgemini & Too Good To Go
 
 Bon hackathon :) 
 
