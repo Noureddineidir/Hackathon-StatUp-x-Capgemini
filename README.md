@@ -33,7 +33,7 @@ qui seraient simplement fermés en période de vacances (été, noël, pâques)
 
 https://fts.capgemini.com/pubpwd/33504211085251/SujetMachineLearning-TGTG.zip 
  
-Avec les identifiants : (à demander)
+Avec les identifiants (à demander) : 
 
 
 
