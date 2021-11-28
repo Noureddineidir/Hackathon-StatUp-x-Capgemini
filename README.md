@@ -2,7 +2,7 @@
 
 Bon hackathon :) 
 
-La présentation de nos résultats est un disponible [ici](https://github.com/Noureddineidir/Hackathon-StatUp-x-Capgemini/blob/019a569e427f6aa8887557d809be0cb3202d5942/4_presentation/PPT_EQUIPE_3_TGTG.pdf).
+La présentation de nos résultats est disponible [ici](https://github.com/Noureddineidir/Hackathon-StatUp-x-Capgemini/blob/019a569e427f6aa8887557d809be0cb3202d5942/4_presentation/PPT_EQUIPE_3_TGTG.pdf).
 
 ## A. Contexte
 
